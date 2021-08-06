@@ -1,2 +1,2 @@
-# javaSimpleChattyBot
-practiceTask1
+# jetbrainJavaTutorial
+javaSimpleChattyBot
